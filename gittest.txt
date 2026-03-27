@@ -1,3 +1,5 @@
 1. git init and git checkout -b LY_working
 2. add 2nd line to the file
 3. add 3rd line to the file
+4. add 4th line to the file
+5. add 5th line to the file
